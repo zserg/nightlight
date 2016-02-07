@@ -13,7 +13,8 @@ The Controller uses signal from a security motion detector to turn LED lamp on a
 * P-channels MOSFET: IRF4905L
 
 ### Schematic:
-![board](https://github.com/zserg/nightlight/nightlight_schematic.jpg)
+<img src="https://github.com/zserg/nightlight/blob/master/nightlight_schematic.jpg" alt="Drawing" style="width: 100px;"/>
+
 
 
 
