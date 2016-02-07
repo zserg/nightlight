@@ -15,6 +15,9 @@ The Controller uses signal from a security motion detector to turn LED lamp on a
 ### Schematic:
 <img src="https://github.com/zserg/nightlight/blob/master/nightlight_schematic.jpg" alt="Drawing" style="width: 100px;"/>
 
+### Board:
+<img src="https://github.com/zserg/nightlight/blob/master/nightlight_boart.jpg" alt="Drawing" style="width: 100px;"/>
+
 
 
 
